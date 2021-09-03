@@ -1,6 +1,6 @@
 # Exercício acerca do *Hook useReducer*
 
-Esse exercício deve considerar o clone do código público disponibilizado no repositório [alexpaulooliveira/reactjs_exerc__useReducer__start_point](https://github.com/alexpaulooliveira/reactjs_exerc__useReducer__start_point) como ponto de partida. 
+Esse exercício deve considerar o clone do código público disponibilizado no repositório [alexpaulooliveira/reactjs_exerc__useReducer_start_point](https://github.com/alexpaulooliveira/reactjs_exerc__useReducer_start_point) como ponto de partida. 
 
 ### Como baixar, configurar, e executar a aplicação:
 
